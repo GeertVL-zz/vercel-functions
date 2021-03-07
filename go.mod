@@ -1,1 +1,3 @@
-module "firstVercelFunction"
+module firstVercelFunction
+
+go 1.16
